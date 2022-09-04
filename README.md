@@ -49,3 +49,6 @@ If we see a function we can describe this function in this word
 #### Who cares Big O Notation?
 
 :point_right: How our code performs , it's important to we have right vocabulary to talk.
+:point_right: Very useful to discussing different approaches to take.
+:point_right: If our code run slow or crush, then we can delete unnecessary code and point the weakness.
+:point_right: Less important for job interview.
