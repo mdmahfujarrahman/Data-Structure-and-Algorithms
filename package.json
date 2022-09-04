@@ -1,0 +1,20 @@
+{
+  "name": "data-structure-and-algorithms",
+  "version": "1.0.0",
+  "description": "-   Big O Notation\r -   Analyzing Performance Of Array And Object\r -   Problem Solving Approach\r -   Problem Solving Pattern\r -   Recursion\r -   Searching Algorithms\r -   Bubble Sort\r -   Selection Sort\r -   Insertion Sort\r -   Merge Sort\r -   Quick Sort\r -   Radix Sort\r -   Into to Data Structure\r -   Singly Linked lists\r -   Doubly Linked List\r -   Stacks and Query\r -   Binary Search tress\r -   Tree Traversal\r -   Binary Heaps\r -   Hash Tables\r -   Graphs\r -   Graphs Traversal\r -   Dijkstra's Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmahfujarrahman/Data-Structure-and-Algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdmahfujarrahman/Data-Structure-and-Algorithms/issues"
+  },
+  "homepage": "https://github.com/mdmahfujarrahman/Data-Structure-and-Algorithms#readme"
+}
